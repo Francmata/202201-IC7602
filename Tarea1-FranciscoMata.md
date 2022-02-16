@@ -1,0 +1,40 @@
+# "Why the Future Needs Us"
+## Francisco Mata Blanco - 2016106889
+ <font size = 5>Durante miles de años de evolución, la humanidad ha creado civilizaciones, religiones y costumbres, pero también algo muy importante de estos inventos es la ética, la cual varía a través de los años y de los distintos pueblos, incluso contradiciendose en muchas ocasiones pero siempre presente y también destaca su afán por simplificar o mejorar su vida lo cual ha propiciado grandes inventos como el automóvil o la medicina. 
+
+Con lo comentado anteriormente, se puede entender que el autor con su artículo da a conocer las nuevas tecnologías que empezaron en el tiempo de la publicación y sus ventajas, pero también sus grandes riesgos y  trata principalmente de justificar que los humanos ya no serán necesarios en un futuro, pasando a una posición secundaria donde quien esté al mando serán los robots o una inteligencia artificial lo cual puede llegar a amenazar la supervivencia de la especie humana.
+
+Primero hay que destacar que en muchas cosas el autor del libro está en lo correcto, ya que todo avance o invento tiene muchas posibilidades de uso, estas se pueden aprovechar para bien común o para el propio beneficio. 
+
+También ejemplifica varias problemáticas a distintas tecnologías que se han ido desarrollando, pero estas mismas problemáticas son las que contradicen su argumento de que en un futuro los humanos no serán necesarios, un ejemplo es el de la inteligencia artificial, que dentro de unos años puede desplazar a los humanos en la toma de decisiones e incluso convertirse en un peligro para su supervivencia. Lo que significa que en un futuro se necesitaría de los humanos para limitar las decisiones o acciones de esta IA, no solo para que sea éticamente correcta para los humanos, por que los programas siempre tienen errores, si no también para la supervivencia de otras especies de animales y plantas.
+
+
+También otro factor es que la inteligencia artificial trabajaría dentro de un dominio establecido por los programadores, entonces por ejemplo si dentro de las operaciones ejecutadas por la IA se necesita un nuevo parámetro entonces sólo una intervención externa a la IA que sabe que se necesita este parámetro podría introducirlo a la ecuación (ya que las inteligencias artificiales que aprenden, lo hacen siempre con los mismos parámetros que especificaron los desarrolladores), por ende ya que hay muchas cosas que no conocemos y otras que posiblemente no entendemos correctamente, podría generar nuevos ajustes dentro de la IA para que esta trabaje correctamente y pueda avanzar cambios que deben ser hechos por los desarrolladores.
+
+Dicho de una forma más sencilla, no podemos programar algo correctamente sin conocer todos los detalles y estos detalles poco a poco se van descubriendo por los humanos, si le damos todo el control a las máquinas todo va a ser más rápido y eficiente pero posiblemente no habrá nuevos avances tecnológicos.
+
+Por otro lado el autor tiene un punto válido, si los trabajos que pueden ser automatizados los son por completo, muchas personas no tendrían un trabajo lo que podría hacer que las pocas personas que están en el poder (empresarios, políticos, millonarios), vean a esa población como innecesaria.
+
+
+El autor también menciona sobre la ingeniería genética, la cual permitirá el desarrollo de nuevos tipos de plantas las cuales puedan ser cultivadas en climas hostiles, que tengan mejor reproducción o que sean más nutritivas, pero destaca que esto puede traer también grandes problemas como por ejemplo que una planta cree una capa de vegetación no comestible demasiado extensa que llene la biosfera como follaje no comestible, por ende se debería buscar soluciones para estos posibles problemas que se presenten en un futuro, los cuales serían solucionados por humanos, independientemente de que herramientas o tecnologías use para solucionar los problemas.
+
+Como el autor menciona, la ingeniería genética puede usarse en un futuro para mejorar a los humanos, independientemente de que tan ético lo considere una persona habría que establecer derechos para las personas, ya que simplemente una persona que tenga la fuerza de cinco hombres no podría tener las mismas consideraciones que una persona normal y estos derechos no deberían ser establecidos por una máquina.
+
+También menciona la nanotecnología que gracias a ella se podría desarrollar curas para muchos males y enfermedades, pero al igual que los problemas a futuro, las enfermedades no se pueden predecir y tampoco podemos afirmar que todas las enfermedades que aparezcan serán similares a las conocidas, lo que implica tener que buscar nuevas formas de atacar estas enfermedades. También algo a destacar son los posibles usos terroristas o militaristas que menciona el autor, pero se requerirían humanos para controlar estas organizaciones y evitar que causen daño para que su uso sea ético, pero lo que es ético para nosotros posiblemente en un futuro no lo sea (ejemplo el racismo en el siglo pasado), lo que significa que la ética la define solo los humanos y serán necesarios en el futuro.
+
+
+Un factor que el autor no toma en cuenta, un apagón mundial, una falla en los servidores de una posible inteligencia artificial que controle todo, o problemas climáticos posiblemente no podrían ser solucionados sin la intervención humana al igual que las famosas pulgas. Por lo que siempre deberían haber personas preparadas para estas eventualidades
+
+Algo que también muestra que los humanos se necesitan en el futuro es que algunas de las predicciones para esta década que hizo el autor aún no son posibles, ni a corto plazo.
+
+En gran parte de la lectura se puede ver que principalmente depende de la ética humana el que los humanos sean necesarios o no en un futuro, ya que con las pequeñas decisiones que se van a ir  tomando poco a poco se establecerá la importancia que los humanos tengan y también sus responsabilidades con ellos mismos y otras especies
+
+Se puede entender que en el futuro, posiblemente muchas tareas y trabajos serán automatizados, lo cual tiene sus pros y contras, ya sea por la mejora en velocidad de las cosas o por la pérdida de trabajos para la población, de hecho eso ya está presente en el 2022 aunque es extremadamente caro aún, pero algo que difícilmente puede suceder es que los humanos sean desplazados completamente, ya que algo que con las bases actuales de la computación no es posible es que las computadoras tengan un pensamiento crítico y que puedan desarrollarse fuera de los parámetros especificados por los programadores, lo cual evita que las computadoras puedan puedan obtener una nueva “forma de pensar”, ya que simplemente lo que hacen es seguir secuencias de pasos una y otra vez. Y aún más importante en el futuro se necesitarán humanos para que puedan definir éticas, derechos humanos y castigos, los cuales no deben ser impuestos por máquinas.
+
+
+Se debe destacar que hablar del futuro es complicado y más aún es predecirlo, ya que no podemos saber cuales descubrimientos no previstos puedan aparecer y cambiar por completo el tablero dando la posibilidad de nuevos avances aún más impresionantes, tal vez incluso que se desarrollen cosas que solo en la ciencia ficción se pueden imaginar, pero por ahora con lo que tenemos está claro que los humanos no son solo necesarios, sino indispensables en el futuro, principalmente para que la existencia de la humanidad puede continuar.
+
+Algo importante a comentar es que tampoco se puede eliminar por completo la idea de desarrollar inteligencias artificiales, robots y aplicar otras tecnologías, ya que prácticamente todo conocimiento puede usarse como arma, por ende se debe siempre tener en mente el bien común y también algo curioso es que menciona la ley de murphy “Todo lo que puede salir mal, saldrá mal”, ya que si solamente se enfoca en lo malo entonces la visión de la humanidad a futuro es bastante desalentadora, para cada tecnología hay miles de posibles usos y entre estos hay miles que sirven para el bien de toda la humanidad.
+
+
+</font>
