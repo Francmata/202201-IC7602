@@ -3,6 +3,7 @@
 #include<math.h>
 
 
+
 int main(){
 	//int result=pow(16,0);
 	int result = returnDecimal("FFF");
